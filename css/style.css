@@ -1,0 +1,171 @@
+/* body{
+  background-image: url("../beige-tiles.png");
+} */
+h1
+{
+  margin-top: 50px;
+  margin-left: 800px;
+}
+h2
+{
+  font-weight: lighter;
+  padding-top: 70px;
+  margin-left: 200px;
+}
+hr
+{
+  color: darkgrey;
+  margin-left: 200px;
+  margin-right: 160px;
+}
+.container
+{
+  /* margin: 30px 300px 200px 300px; */
+  margin-left: 300px;
+  margin-right: 300px;
+  height: 550px;
+  background: #ffffff;
+  border: solid;
+}
+textarea
+{
+  color: darkgrey;
+  font-size: 25px;
+  text-align: center;
+  padding-top: 20px;
+  margin-left: 200px;
+  width: 71%;
+  height: 200px;
+  border: dashed 2px #c9c9c9;
+}
+#generate
+{
+  font-size: 20px;
+  margin-left: 200px;
+  width: 30%;
+  background: darkred;
+  color: white;
+  height: 50px;
+  float: left;
+  border-radius: 32px;
+  border: none;
+}
+#clipboard
+{
+  color: #ffffff;
+  font-size: 20px;
+  width: 30%;
+  margin-left: 150px;
+  height: 50px;
+  border-radius: 32px;
+  border: none;
+  float: left;
+}
+#secLine
+{
+  margin-left: 200px;
+}
+@media screen and (max-width: 1500px) {
+  body {
+      background-image: url("beige-tiles.png");
+  }
+  h1{
+    margin-left: 500px;
+  }
+  .container
+  {
+    margin-left: 200px;
+    width: 70%;
+    background:  lightgray;
+  }
+  textarea
+  {
+    width: 50%;
+  }
+  hr{
+    width: 50%;
+  }
+  #generate{
+    width: 50%;
+  }
+  #clipboard{
+    color: blue;
+  background: #ffffff;
+  width:50%;
+  margin-left: 200px;
+}
+}
+@media screen and (max-width: 1100px) {
+  body {
+      background-image: url("beige-tiles.png");
+      /* background-image: none; */
+  }
+  h1{
+    margin-left: 450px;
+  }
+  .container
+  {
+    margin-left: 200px;
+    width: 70%;
+    background: rgb(196, 158, 87);
+  }
+  textarea
+  {
+    width: 50%;
+  }
+  hr{
+    width: 50%;
+  }
+  #generate{
+    width: 50%;
+  }
+  #clipboard{
+    color: blue;
+  background: #ffffff;
+  width:50%;
+  margin-left: 200px;
+}
+}
+@media screen and (max-width: 980px) {
+  body {
+      background-image: url("beige-tiles.png");
+      /* background-image: none; */
+  }
+  h1{
+    margin-left: 350px;
+  }
+  h2{
+    width: 80%;
+    margin-left: 60px;
+  }
+  .container
+  {
+    margin-left: 150px;
+    width: 70%;
+    background: rgb(196, 158, 87);
+  }
+  textarea
+  {
+    width: 80%;
+    margin-left: 60px;
+  }
+  hr{
+    width: 80%;
+    margin-left: 60px;
+  }
+  #secLine
+{
+  width: 80%;
+  margin-left: 60px;
+}
+  #generate{
+    width: 80%;
+    margin-left: 60px;
+  }
+  #clipboard{
+    color: blue;
+  background: #ffffff;
+  width:80%;
+  margin-left: 60px;
+}
+}
