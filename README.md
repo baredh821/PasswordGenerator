@@ -15,7 +15,7 @@ Random Password Generator - This project covers the random password generation b
 
 # Screenshots
 
-<img src = "images/Screenshot1.jpg">
+<img src = "images/Screenshot1.png">
 
 # Repo Details 
 https://github.com/baredh821/Homework3
