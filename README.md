@@ -21,7 +21,7 @@ Random Password Generator - This project covers the random password generation b
 https://github.com/baredh821/Homework3
 
 # Github Pages
-https://baredh821.github.io/Homework3/
+https://baredh821.github.io/Homework3/PasswordGenerator.html
 
 
 
