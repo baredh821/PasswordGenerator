@@ -17,7 +17,7 @@ var finalPasssword = document.querySelector("#textArea");
 while(!userInputIsCorrect)
 {
 userInput = prompt('Enter the length of the password');
-if(userInput > 8 && userInput < 128){
+if(userInput > 7 && userInput < 127){
 userInputIsCorrect = true;
 specialCharacters = confirm("Do you want to add special Characters?");
 numericCharacters = confirm("Do you want to add numeric Characters?");
