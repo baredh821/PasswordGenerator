@@ -130,7 +130,8 @@ if ((specialCharacters == true) && (numericCharacters == true) &&
     }
     else if ((specialCharacters == false) && (numericCharacters == false) && 
     (lowerCaseCharacters == false) && (upperCaseCharacters == false)){
-        alert("Please select atleast one character type");  
+        alert("Please select atleast one character type");
+        userInputIsCorrect = false;  
     }
 }
 else{
