@@ -127,10 +127,6 @@ textarea
 }
 }
 @media screen and (max-width: 980px) {
-  body {
-     /* background-image: url("beige-tiles.png"); */
-      /* background-image: none; */
-  }
   h1{
     margin-left: 350px;
   }
