@@ -67,7 +67,7 @@ textarea
 }
   @media screen and (max-width: 1400px) {
   body {
-      background-image: url("beige-tiles.png");
+      /* background-image: url("beige-tiles.png"); */
   }
   h1{
     margin-left: 500px;
@@ -97,7 +97,7 @@ textarea
 } 
  @media screen and (max-width: 1100px) {
   body {
-      background-image: url("beige-tiles.png");
+      /* background-image: url("beige-tiles.png"); */
       /* background-image: none; */
   }
   h1{
@@ -128,7 +128,7 @@ textarea
 }
 @media screen and (max-width: 980px) {
   body {
-      background-image: url("beige-tiles.png");
+     /* background-image: url("beige-tiles.png"); */
       /* background-image: none; */
   }
   h1{
